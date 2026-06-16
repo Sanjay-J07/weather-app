@@ -152,8 +152,8 @@ This project helped me practice:
 
 **Sanjay J**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/Sanjay-J07/
+- LinkedIn: https://linkedin.com/in/sanjay-j-59ab25292/
 
 ---
 
